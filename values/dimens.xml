@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spacing_10dp">10dp</dimen>
+    <dimen name="spacing_15dp">15dp</dimen>
+    <dimen name="spacing_5dp">5dp</dimen>
+    <dimen name="spacing_25dp">25dp</dimen>
+    <dimen name="spacing_20dp">20dp</dimen>
+    <dimen name="font_size_17sp">17sp</dimen>
+    <dimen name="spacing_16dp">16dp</dimen>
+    <dimen name="spacing_6dp">6dp</dimen>
+    <dimen name="spacing_17dp">17dp</dimen>
+    <dimen name="spacing_40dp">40dp</dimen>
+    <dimen name="spacing_24dp">24dp</dimen>
+    <dimen name="spacing_53">53dp</dimen>
+    <dimen name="spacing_30">30dp</dimen>
+    <dimen name="spacing_12">12dp</dimen>
+    <dimen name="spacing_0">0dp</dimen>
+    <dimen name="spacing_14sp">14sp</dimen>
+    <dimen name="spacing_55dp">55dp</dimen>
+    <dimen name="spacing_2dp">2dp</dimen>
+</resources>
